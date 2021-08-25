@@ -87,10 +87,10 @@
 
 ### Statistics  📊️
 <a href="https://www.kerthcet.com">
-  <img src="https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/>
+  <img src="https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/profile-summary-card-output/nord_dark/0-profile-details.svg"/ width=1600>
 </a>
 <a href="https://www.kerthcet.com">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true?theme=tokyonight"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kerthcet&show_icons=true&count_private=true&theme=tokyonight"/>
 </a>
 <a href="https://www.kerthcet.com">
   <img align="right" margin="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthcet" />
