@@ -16,7 +16,6 @@
 <a href=""><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Ruby-CC342D.svg?&style=flat&logo=ruby&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Shell-4EAA25.svg?&style=flat&logo=GNU%20Bash&logoColor=white" height=20></a>
-</br>
 
 ### Experience 📔
 <a href=""><img src="https://img.shields.io/badge/MicroService-255E9C.svg?&style=flat&logo=Icinga&logoColor=white" height=20></a>
@@ -67,7 +66,6 @@
 <a href=""><img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jira&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=jenkins&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/JenkinsX-73C3D5.svg?&style=flat&logo=jenkinsx&logoColor=white" height=20></a>
-</br>
 
 ### Tools 🛠
 <a href="https://github.com/kerthcet/ide"><img src="https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=white" height=20></a>
@@ -77,7 +75,6 @@
 <a href=""><img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=slack&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=notion&logoColor=white" height=20></a>
-</br>
 
 ### Hobbies ❤️
 <a href=""><img src="https://img.shields.io/badge/NBA-253B73.svg?&style=flat&logo=Nba&logoColor=white" height=20></a>
@@ -87,7 +84,6 @@
 <a href=""><img src="https://img.shields.io/badge/FIFA-326295.svg?&style=flat&logo=fifa&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Dota2-a40a0e.svg?&style=flat&logo=dota2&logoColor=white" height=20></a>
 <a href=""><img src="https://img.shields.io/badge/Dogs-663300.svg?&style=flat&logo=Snyk&logoColor=white" height=20></a>
-</br>
 
 ### Statistics  📊️
 <a href="https://www.kerthcet.com">
