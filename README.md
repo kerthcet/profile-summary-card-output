@@ -4,7 +4,7 @@
 - 📫 How to reach me: kerthcet@gmail.com
 
 ### AboutMe 🥷
-<a href="https://www.kerthcet.com">
+<a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect">
   <img align="right" height="100px" src="https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/snapshots/wechat.jpg " />
 </a>
 
