@@ -4,7 +4,7 @@
 - 📫 How to reach me: kerthcet@gmail.com
 
 ### AboutMe 🥷
-<a href="http://kerthcet.com/"><img src="https://img.shields.io/badge/kerthcet.com-1ac6ff.svg?&style=flat&logo=aboutdotme&logoColor=white" height=20></a>
+<a href="https://kerthcet.com/"><img src="https://img.shields.io/badge/kerthcet.com-1ac6ff.svg?&style=flat&logo=aboutdotme&logoColor=white" height=20></a>
 <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"><img src="https://img.shields.io/badge/TechTrek-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=20></a>
 <a href="https://leetcode-cn.com/u/kerthcet/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=flat&logo=leetcode&logoColor=white" height=20></a>
 <a href="https://www.stackalytics.io/cncf?project_type=cncf-group&release=all&metric=commits&date=all&user_id=kerthcet@gmail.com"><img src="https://img.shields.io/badge/Stackalytics-e83e8c.svg?&style=flat&logo=vFairs&logoColor=white" height=20></a>
