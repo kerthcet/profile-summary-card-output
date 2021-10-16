@@ -1,5 +1,5 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.kerthcet.github.io)
-- 🔭 I’m currently working on Kubernetes.
+- 🔭 I’m currently working on kubernetes.
 - 🌱 I’m currently learning deep-learning.
 - 📫 How to reach me: kerthcet@gmail.com
 
