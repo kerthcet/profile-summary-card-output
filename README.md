@@ -1,6 +1,7 @@
+
 <a href="https://www.kerthcet.com">
-  <img align="right" style="margin-right:500px" height=120 src="https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/snapshots/kante.jpeg" />
-</a
+  <img align="right" style="margin-right:300px" height=120 src="https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/snapshots/kante.jpeg" />
+</a>
 
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.kerthcet.github.io)
 
