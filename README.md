@@ -1,7 +1,13 @@
+<a href="https://www.kerthcet.com">
+  <img align="right" height=100 src="https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/snapshots/kante.jpg" />
+</a>
+
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.kerthcet.github.io)
+
 - 🔭 I’m currently working on kubernetes.
 - 🌱 I’m currently learning deep-learning.
 - 📫 How to reach me: kerthcet@gmail.com
+
 
 ### AboutMe 🥷
 <a href="https://kerthcet.com/"><img src="https://img.shields.io/badge/kerthcet.com-1ac6ff.svg?&style=flat&logo=aboutdotme&logoColor=white" height=20></a>
