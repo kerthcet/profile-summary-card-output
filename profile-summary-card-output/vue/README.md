@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./0-profile-details.svg)
-
-```
-![](https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/profile-summary-card-output/vue/0-profile-details.svg)
-```
-
-    
-
----
-
 ![](./1-repos-per-language.svg)
 
 ```
@@ -39,6 +29,16 @@
 
 ```
 ![](https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/profile-summary-card-output/vue/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/profile-summary-card-output/vue/4-productive-time.svg)
 ```
 
     
