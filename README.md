@@ -1,7 +1,11 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=kerthcet.kerthcet.github.io)
-- 🔭 I’m currently working on kubernetes.
-- 🌱 I’m currently learning deep-learning.
-- 📫 How to reach me: kerthcet@gmail.com
+- 🔭 I’m currently working on Kubernetes.
+- 👯 I’m looking to collaborate on AI Infra.
+- 💬 Ask me anything about OSS.
+- 📫 How to reach me:  <a href="https://kubernetes.slack.com"><img src="https://img.shields.io/badge/kerthcet-4A154B.svg?&style=flat&logo=slack&logoColor=white" height=15></a>
+<a href="https://twitter.com/kerthcet"><img src="https://img.shields.io/badge/kerthcet-1DA1F2.svg?&style=flat&logo=Twitter&logoColor=white" height=15></a>
+ <a href="https://kerthcet@gmail.com"><img src="https://img.shields.io/badge/kerthcet-EA4335.svg?&style=flat&logo=gmail&logoColor=white" height=15></a>
+<a href="./snapshots/wechat.jpg"><img src="https://img.shields.io/badge/kerthcet-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=15></a>
 
 
 ### AboutMe 🥷
@@ -10,7 +14,6 @@
 <a href="https://twitter.com/kerthcet"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat&logo=Twitter&logoColor=white" height=20></a>
 <a href="https://mp.weixin.qq.com/mp/homepage?__biz=MzU3NDk5Nzc2OQ==&hid=2&sn=615b686877a034a9a6af601decc23da9&scene=18#wechat_redirect"><img src="https://img.shields.io/badge/TechTrek-07C160.svg?&style=flat&logo=wechat&logoColor=white" height=20></a>
 <a href="https://leetcode-cn.com/u/kerthcet/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=flat&logo=leetcode&logoColor=white" height=20></a>
-<a href="https://www.stackalytics.io/cncf?project_type=cncf-group&release=all&metric=commits&date=all&user_id=kerthcet@gmail.com"><img src="https://img.shields.io/badge/Stackalytics-e83e8c.svg?&style=flat&logo=vFairs&logoColor=white" height=20></a>
 <a href="https://stackoverflow.com/users/story/16816681"><img src="https://img.shields.io/badge/StackOverFlow-F58025.svg?&style=flat&logo=stackoverflow&logoColor=white" height=20></a>
 <a href="https://wakatime.com/@kerthcet"><img src="https://img.shields.io/badge/Wakatime-000000.svg?&style=flat&logo=wakatime&logoColor=white" height=20></a>
 
