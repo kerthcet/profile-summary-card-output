@@ -1,9 +1,8 @@
-
-<a style="padding-left: 250px;text-align:left;" href="https://github.com/kerthcet">
+<a style="padding-left: 250px;" href="https://github.com/kerthcet">
 <img src="./snapshots/profile.png" height=250>
 </a>
 
-<h2 style="padding-left: 250px; text-align:left;"><b>Hi, I'm <i>Kante Yin</i> 👋</b></h2>
+<h2 style="padding-left: 250px;"><b>Hi, I'm <i>Kante Yin</i> 👋</b></h2>
 
 - 👨‍💻 I'm a software engineer and an open source enthusiast.
 - 🍞 I’m currently working on Kubernetes at DaoCloud.
