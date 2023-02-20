@@ -5,9 +5,9 @@
 <h2 style="padding-left: 250px;"><b>Hi, I'm <i>Kante Yin</i> 👋</b></h2>
 
 - 👨‍💻 I'm a software engineer and an open source enthusiast.
-- 🍞 I’m currently working on Kubernetes at DaoCloud.
+- 🍞 I’m currently working at the Kubernetes platform team at DaoCloud.
 - 🔭 I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling reviewer and [Kueue](https://github.com/kubernetes-sigs/kueue) reviewer.
-- 🎯 I specialized in Kubernetes scheduling, batch processing and distributed systems.
+- 🎯 I specialized in Linux, Kubernetes, devops and distributed systems.
 - 📫 Contact me via [GitHub](https://github.com/kerthcet), [Twitter](https://twitter.com/kerthcet), [WeChat](https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg) or Ping me at Slack.
 
 [![](https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/kerthcet/kerthcet.github.io)
