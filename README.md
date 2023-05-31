@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm a software engineer and an open source enthusiast.
 - 🍞 I’m currently working at the Kubernetes platform team at DaoCloud.
-- 🔭 I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling Maintainer and several [sub-projects](https://github.com/kerthcet) Maintainers.
+- 🔭 I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as a SIG-Scheduling Maintainer and several [sub-projects](https://github.com/kerthcet) maintainers.
 - 🎯 I specialized in Linux, Kubernetes, DevOps and distributed systems.
 - 👯 I’m looking to collaborate on AI Infra.
 - 📫 Contact me via [GitHub](https://github.com/kerthcet), [Twitter](https://twitter.com/kerthcet), [WeChat](https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg) or Ping me at Slack.
