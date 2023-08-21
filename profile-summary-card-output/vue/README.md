@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/profile-summary-card-output/vue/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/main/profile-summary-card-output/vue/4-productive-time.svg)
-```
-
-    
