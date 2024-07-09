@@ -5,9 +5,9 @@
 <h2 style="padding-left: 250px;"><b>Hi, I'm <i>Kante Yin</i> 👋</b></h2>
 
 - 👨‍💻 I'm a software engineer and an open source enthusiast.
-- 🍞 I’m currently working at the Kubernetes AI platform team at DaoCloud.
+- 🍞 I’m currently working at DaoCloud based in Shanghai.
 - 🔭 I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling Maintainer and Founder of [InftyAI](https://github.com/InftyAI).
-- 👯 I’m looking to collaborate on AI Infra, e.g. LLMOps, Inference, Training Framework.
+- 👯 I’m looking to collaborate on AI Infra, especially around LLM inference.
 - 📫 Contact me via [GitHub](https://github.com/kerthcet), [Twitter](https://twitter.com/kerthcet), [LinkedIn](https://www.linkedin.com/in/kerthcet/), [WeChat](https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg) or Ping me at Slack.
 
 [![](https://raw.githubusercontent.com/kerthcet/kerthcet.github.io/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/kerthcet/kerthcet.github.io)
