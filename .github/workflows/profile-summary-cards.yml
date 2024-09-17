@@ -20,4 +20,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 8
-          EXCLUDE: "Mustache,Makefile,HTML,JavaScript,CSS"
+          EXCLUDE: "Mustache,Makefile,HTML,JavaScript,CSS,Smarty"
