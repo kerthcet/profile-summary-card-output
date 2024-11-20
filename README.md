@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm a software engineer and an open source enthusiast.
 - 🍞 I’m currently working at DaoCloud based in Shanghai.
-- 🔭 I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling Maintainer and Founder of [InftyAI](https://www.inftyai.com/).
+- 🔭 I also work on upstream [Kubernetes](https://github.com/kubernetes/kubernetes) as SIG-Scheduling Maintainer and help to incubate several projects like [Kueue](https://github.com/kubernetes-sigs/kueue), [LWS](https://github.com/kubernetes-sigs/lws). Besides I'm a farmer of [InftyAI](https://github.com/InftyAI).
 - 👯 I’m looking to collaborate on AI Infra, especially around LLM inference.
 - 📫 Contact me via [GitHub](https://github.com/kerthcet), [Twitter](https://twitter.com/kerthcet), [LinkedIn](https://www.linkedin.com/in/kerthcet/), [WeChat](https://raw.githubusercontent.com/kerthcet/kerthcet/main/snapshots/wechat.jpg) or Ping me at Slack.
 
