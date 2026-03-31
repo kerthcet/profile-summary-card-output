@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/main/profile-summary-card-output/blueberry/4-productive-time.svg)
-```
-
-    
