@@ -32,23 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/main/profile-summary-card-output/outrun/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kerthcet/profile-summary-card-output/main/profile-summary-card-output/outrun/4-productive-time.svg)
-```
-
-    
