@@ -20,5 +20,5 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 0
-          EXCLUDE: "Mustache,Makefile,HTML,JavaScript,CSS,Smarty"
+          EXCLUDE: "mustache,makefile,html,javaScript,css,smarty"
           THEME: "github"
